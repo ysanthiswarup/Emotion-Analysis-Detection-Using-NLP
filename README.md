@@ -22,11 +22,10 @@ This project performs emotion detection from textual data using natural language
 ### Models Implemented
 - **Deep Learning Models**:
   - LSTM (Long Short-Term Memory) networks with embedding and bidirectional layers.
-- **Machine Learning Models**:
-  - Random Forest Classifier.
-  - Logistic Regression.
-  - Decision Tree Classifier.
-  - Support Vector Machines (SVM).
+- **Deep Learning Models**:
+  - BERT.
+  - DistilBERT.
+  - RoBERTa.
 
 ### Evaluation Metrics
 - Metrics used to evaluate the models:
